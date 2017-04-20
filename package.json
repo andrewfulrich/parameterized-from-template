@@ -1,0 +1,23 @@
+{
+  "name": "parameterized-from-template",
+  "version": "1.0.0",
+  "description": "take a template string and make a parameterized query",
+  "main": "parameterizedFromTemplate.js",
+  "scripts": {
+    "test": "tape tests/*.js  | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewfulrich/parameterized-from-template.git"
+  },
+  "author": "Andrew Ulrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewfulrich/parameterized-from-template/issues"
+  },
+  "homepage": "https://github.com/andrewfulrich/parameterized-from-template#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3"
+  }
+}
