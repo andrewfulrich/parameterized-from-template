@@ -1,6 +1,6 @@
 {
   "name": "parameterized-from-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "take a template string and make a parameterized query",
   "main": "parameterizedFromTemplate.js",
   "scripts": {
